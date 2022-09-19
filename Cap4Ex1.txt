@@ -1,0 +1,21 @@
+Trat	Y
+"T1- Escarificação com Lixa"	88
+"T2- Imersão em ácido sulfúrico"	68
+"T3- Imersão em água fervente"	28
+"T4- Imersão em água a 80°C"	48
+"T5- Testemunha (sem tratamento)"  	4
+"T1- Escarificação com Lixa"	92
+"T2- Imersão em ácido sulfúrico"	71
+"T3- Imersão em água fervente"	36
+"T4- Imersão em água a 80°C"	52
+"T5- Testemunha (sem tratamento)"  	8
+"T1- Escarificação com Lixa"	84
+"T2- Imersão em ácido sulfúrico"	76
+"T3- Imersão em água fervente"	32
+"T4- Imersão em água a 80°C"	56
+"T5- Testemunha (sem tratamento)"  	16
+"T1- Escarificação com Lixa"	80
+"T2- Imersão em ácido sulfúrico"	64
+"T3- Imersão em água fervente"	40
+"T4- Imersão em água a 80°C"	40
+"T5- Testemunha (sem tratamento)"  	12
