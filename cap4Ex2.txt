@@ -1,4 +1,4 @@
-Trat	Rep	Var
+trat	rep	dados
 T1	1	18
 T1	2	16
 T1	3	12

@@ -1,0 +1,24 @@
+Trat	Bloc	Dados
+TA	1	32
+TB	2	17
+TC	3	32
+TD	4	14
+TA	1	30
+TB	2	48
+TC	3	32
+TD	4	42
+TA	1	38
+TB	2	33
+TC	3	37
+TD	4	x
+TA	1	21
+TB	2	27
+TC	3	42
+TD	4	25
+TA	1	10
+TB	2	12
+TC	3	28
+TD	4	30
+
+
+
