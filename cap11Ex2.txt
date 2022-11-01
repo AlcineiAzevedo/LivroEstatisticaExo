@@ -1,37 +1,37 @@
-Fator A	Fator B	Bloc	Dados
-Cultivar 1	Adubação 1	1	66
-Cultivar 1	Adubação 1	2	64
-Cultivar 1	Adubação 1	3	76
-Cultivar 1	Adubação 2	1	70
-Cultivar 1	Adubação 2	2	67
-Cultivar 1	Adubação 2	3	83
-Cultivar 1	Adubação 3	1	63
-Cultivar 1	Adubação 3	2	61
-Cultivar 1	Adubação 3	3	69
-Cultivar 1	Adubação 4	1	57
-Cultivar 1	Adubação 4	2	60
-Cultivar 1	Adubação 4	3	71
-Cultivar 2	Adubação 1	1	68
-Cultivar 2	Adubação 1	2	59
-Cultivar 2	Adubação 1	3	78
-Cultivar 2	Adubação 2	1	74
-Cultivar 2	Adubação 2	2	80
-Cultivar 2	Adubação 2	3	90
-Cultivar 2	Adubação 3	1	76
-Cultivar 2	Adubação 3	2	80
-Cultivar 2	Adubação 3	3	87
-Cultivar 2	Adubação 4	1	92
-Cultivar 2	Adubação 4	2	100
-Cultivar 2	Adubação 4	3	108
-Cultivar 3	Adubação 1	1	68
-Cultivar 3	Adubação 1	2	69
-Cultivar 3	Adubação 1	3	73
-Cultivar 3	Adubação 2	1	110
-Cultivar 3	Adubação 2	2	112
-Cultivar 3	Adubação 2	3	113
-Cultivar 3	Adubação 3	1	70
-Cultivar 3	Adubação 3	2	60
-Cultivar 3	Adubação 3	3	71
-Cultivar 3	Adubação 4	1	75
-Cultivar 3	Adubação 4	2	66
-Cultivar 3	Adubação 4	3	79
+FatorA	FatorB	Bloc	Dados
+Cultivar1	Adubação1	1	66
+Cultivar1	Adubação1	2	64
+Cultivar1	Adubação1	3	76
+Cultivar1	Adubação2	1	70
+Cultivar1	Adubação2	2	67
+Cultivar1	Adubação2	3	83
+Cultivar1	Adubação3	1	63
+Cultivar1	Adubação3	2	61
+Cultivar1	Adubação3	3	69
+Cultivar1	Adubação4	1	57
+Cultivar1	Adubação4	2	60
+Cultivar1	Adubação4	3	71
+Cultivar2	Adubação1	1	68
+Cultivar2	Adubação1	2	59
+Cultivar2	Adubação1	3	78
+Cultivar2	Adubação2	1	74
+Cultivar2	Adubação2	2	80
+Cultivar2	Adubação2	3	90
+Cultivar2	Adubação3	1	76
+Cultivar2	Adubação3	2	80
+Cultivar2	Adubação3	3	87
+Cultivar2	Adubação4	1	92
+Cultivar2	Adubação4	2	100
+Cultivar2	Adubação4	3	108
+Cultivar3	Adubação1	1	68
+Cultivar3	Adubação1	2	69
+Cultivar3	Adubação1	3	73
+Cultivar3	Adubação2	1	110
+Cultivar3	Adubação2	2	112
+Cultivar3	Adubação2	3	113
+Cultivar3	Adubação3	1	70
+Cultivar3	Adubação3	2	60
+Cultivar3	Adubação3	3	71
+Cultivar3	Adubação4	1	75
+Cultivar3	Adubação4	2	66
+Cultivar3	Adubação4	3	79
