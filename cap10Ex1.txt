@@ -1,17 +1,17 @@
-Trat	Rep	Dados
-Test	1	14
-Test	2	13
-Test	3	12
-Test	4	15
-T2	1	17
-T2	2	16
-T2	3	18
-T2	4	15
-T3	1	12
-T3	2	15
-T3	3	11
-T3	4	10
-T4	1	5
-T4	2	7
-T4	3	9
-T4	4	15
+Test	Trat	Rep	Dados
+1	Test	1	14
+1	Test	2	13
+1	Test	3	12
+1	Test	4	15
+NA	T2	1	17
+NA	T2	2	16
+NA	T2	3	18
+NA	T2	4	15
+NA	T3	1	12
+NA	T3	2	15
+NA	T3	3	11
+NA	T3	4	10
+NA	T4	1	5
+NA	T4	2	7
+NA	T4	3	9
+NA	T4	4	15
