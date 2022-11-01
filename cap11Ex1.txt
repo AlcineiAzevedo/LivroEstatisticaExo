@@ -1,4 +1,4 @@
-Fator A	Fator B	Rep	Dados
+FatorA	FatorB	Rep	Dados
 Cultivar 1	Manejo 1	1	81
 Cultivar 1	Manejo 1	2	73
 Cultivar 1	Manejo 1	3	79
